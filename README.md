@@ -1,4 +1,4 @@
-# Sentimet Analysis From Speech , Input text and by uploading the csv file That contain the reviews column.
+# Sentimet Analysis From Speech , Input text and by uploading the csv file contain the reviews column.
 
 This project focuses on performing sentiment analysis on Amazon reviews data. It utilizes the Streamlit library to create a web application that offers the following functionalities:
 
