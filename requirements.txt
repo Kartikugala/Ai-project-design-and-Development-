@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+wordcloud
+nltk
+streamlit
+pydub
+SpeechRecognition
+ffmpeg
+PyAudio
+assemblyai
+pytube
+moviepy
